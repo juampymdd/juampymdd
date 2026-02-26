@@ -1,62 +1,125 @@
-# 🚀 Full Stack Engineer Ecosystem
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0170FE&height=280&section=header&text=Juampy%20MDD&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Next.js%20|%20NestJS%20|%20Kubernetes%20|%20Three.js&descSize=20&descAlignY=60" width="100%" />
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0170FE,50:00C6FF,100:0170FE&height=320&section=header&text=Juampy%20MDD&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=⚡%20Next.js%20·%20NestJS%20·%20Kubernetes%20·%20Three.js%20⚡&descSize=22&descAlignY=60&stroke=00C6FF&strokeWidth=2" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_the_Future-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Website-juampymad.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
+<!-- STATUS BADGES -->
+<br/>
+<img src="https://img.shields.io/badge/Status-Building%20the%20Future-00C6FF?style=for-the-badge&labelColor=0a0e1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cloud-0170FE?style=for-the-badge&labelColor=0a0e1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Available-Freelance%20%2F%20Collab-00FF99?style=for-the-badge&labelColor=0a0e1a" />
+
+<br/><br/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%F0%9F%9A%80;Crafting+immersive+digital+experiences;Next.js+%7C+NestJS+%7C+Three.js+%7C+K8s;Scalable+architecture+%2B+stunning+UI" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mí
-Soy un desarrollador apasionado por crear experiencias digitales de alto impacto. Mi stack actual está centrado en la velocidad de **Next.js**, la robustez de **NestJS** y la potencia visual de **Three.js**. Diseño arquitecturas preparadas para escalar en la nube con **Kubernetes**.
 
-🏠 **Portfolio:** [juampymad.com](https://www.juampymad.com/)
-📸 **Instagram:** [@madcodes](https://instagram.com/madcodes)
+```typescript
+const juampy = {
+  role     : "Full Stack Engineer",
+  location : "Argentina 🇦🇷",
+  stack    : ["Next.js", "NestJS", "Three.js", "Kubernetes"],
+  passion  : "Crear experiencias digitales de alto impacto",
+  current  : "Escalando arquitecturas cloud-native 🚀",
+  website  : "juampymad.com",
+};
+```
 
----
-
-## 🛠️ My Tech Universe
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,nodejs,nestjs,ts,postgres,mongodb,docker,kubernetes,vercel,git,linux,postman&perline=8" />
-  </a>
-</p>
-
----
-
-## 📊 Performance & Activity
-
-<p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=juampymdd&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampymdd&layout=compact&theme=vision-glow&hide=html,css" />
-</p>
-
-### 🐍 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juampymdd&theme=vision-glow&hide_border=false" width="100%" />
-</p>
+> _"El código bien escrito es poesía en movimiento. La arquitectura sólida es el escenario donde esa poesía cobra vida."_
 
 ---
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-glow" width="85%" />
-</p>
+## 🛠️ Tech Universe
+
+<div align="center">
+
+### ⚡ Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,figma" />
+
+### ⚙️ Backend & DevOps
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,docker,kubernetes" />
+
+### 🔧 Tools & Cloud
+<img src="https://skillicons.dev/icons?i=vercel,git,linux,postman,redis,nginx" />
+
+</div>
 
 ---
 
-## 🤝 Connect & Support
-<p align="center">
-<a href="https://instagram.com/madcodes"><img src="https://img.shields.io/badge/Instagram-madcodes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.juampymad.com/"><img src="https://img.shields.io/badge/Website-juampymad.com-0170FE?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://PayPal.Me/juampymdd"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-</p>
+## 📊 GitHub Performance
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=juampymdd&icon=5&color=0" />
-</p>
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=juampymdd&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" />
+&nbsp;&nbsp;
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampymdd&layout=compact&theme=vision-glow&hide=html,css&border_radius=12" />
+
+</div>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juampymdd&theme=vision-glow&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" width="70%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=juampymdd&theme=onestar&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7" width="100%" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juampymdd&theme=react-dark&bg_color=0d1117&color=00C6FF&line=0170FE&point=ffffff&area=true&hide_border=false&radius=12" width="100%" />
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-glow" width="85%" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+<br/>
+
+<a href="https://www.juampymad.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍%20Portfolio-juampymad.com-0170FE?style=for-the-badge&labelColor=0a0e1a" />
+</a>
+&nbsp;
+<a href="https://instagram.com/madcodes" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@madcodes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0e1a" />
+</a>
+&nbsp;
+<a href="https://PayPal.Me/juampymdd" target="_blank">
+  <img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0a0e1a" />
+</a>
+
+<br/><br/>
+
+<!-- VISITOR COUNTER -->
+<img src="https://visitcount.itsvg.in/api?id=juampymdd&label=Profile%20Views&icon=5&color=0&pretty=true" />
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0170FE,50:00C6FF,100:0170FE&height=120&section=footer" width="100%" />
