@@ -76,7 +76,7 @@ const juampy = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=juampymdd&theme=onestar&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=juampymdd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ const juampy = {
 <br/><br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://visitcount.itsvg.in/api?id=juampymdd&label=Profile%20Views&icon=5&color=0&pretty=true" />
+<img src="https://komarev.com/ghpvc/?username=juampymdd&label=Profile+Views&color=0170FE&style=for-the-badge" />
 
 </div>
 
