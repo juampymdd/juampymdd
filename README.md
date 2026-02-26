@@ -6,13 +6,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_the_Future-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Scalability_&_3D_Web-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website-juampymad.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
-Soy un desarrollador apasionado por crear experiencias digitales de alto impacto. Mi stack actual está centrado en la velocidad de **Next.js**, la robustez de **NestJS** y la potencia visual de **Three.js**. No solo escribo código; diseño arquitecturas preparadas para escalar en la nube con **Kubernetes**.
+Soy un desarrollador apasionado por crear experiencias digitales de alto impacto. Mi stack actual está centrado en la velocidad de **Next.js**, la robustez de **NestJS** y la potencia visual de **Three.js**. Diseño arquitecturas preparadas para escalar en la nube con **Kubernetes**.
+
+🏠 **Portfolio:** [juampymad.com](https://www.juampymad.com/)
+📸 **Instagram:** [@madcodes](https://instagram.com/madcodes)
 
 ---
 
@@ -49,8 +52,8 @@ Soy un desarrollador apasionado por crear experiencias digitales de alto impacto
 
 ## 🤝 Connect & Support
 <p align="center">
-<a href="https://instagram.com/juampymdd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://twitter.com/juampymdd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://instagram.com/madcodes"><img src="https://img.shields.io/badge/Instagram-madcodes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.juampymad.com/"><img src="https://img.shields.io/badge/Website-juampymad.com-0170FE?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://PayPal.Me/juampymdd"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
 
