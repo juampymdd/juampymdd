@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0170FE,50:00C6FF,100:0170FE&height=320&section=header&text=Juampy%20MDD&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=⚡%20Next.js%20·%20NestJS%20·%20Kubernetes%20·%20Three.js%20⚡&descSize=22&descAlignY=60&stroke=00C6FF&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0170FE,50:00C6FF,100:0170FE&height=320&section=header&text=Juan%20Pablo%20Maddoni&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=⚡%20Next.js%20·%20NestJS%20·%20Kubernetes%20·%20Three.js%20⚡&descSize=22&descAlignY=60&stroke=00C6FF&strokeWidth=2" width="100%" />
 
 <!-- STATUS BADGES -->
 <br/>
