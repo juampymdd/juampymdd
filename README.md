@@ -1,7 +1,7 @@
 # 🚀 Full Stack Engineer Ecosystem
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Juampy%20MDD&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Next.js%20|%20NestJS%20|%20Kubernetes%20|%20Three.js&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Juampy%20MDD&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Next.js%20|%20NestJS%20|%20Kubernetes%20|%20Three.js&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 ---
@@ -19,20 +19,27 @@
 
 ---
 
-## 📊 Performance & Stats
+## 📊 Performance & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juampymdd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampymdd&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juampymdd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampymdd&layout=compact&theme=dark&hide=html,css" />
+</p>
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juampymdd&theme=dark" width="100%" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 🤝 Let's Connect
 <p align="center">
-<a href="https://instagram.com/madcodes"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://instagram.com/juampymdd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://twitter.com/juampymdd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://PayPal.Me/juampymdd"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=juampymdd&icon=5&color=0" />
 </p>
