@@ -58,25 +58,17 @@ const juampy = {
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=juampymdd&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=juampymdd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
 &nbsp;&nbsp;
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampymdd&layout=compact&theme=vision-glow&hide=html,css&border_radius=12" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampymdd&layout=compact&theme=tokyonight&hide=html,css&border_radius=12" />
 
 </div>
 
 <div align="center">
 
 ### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juampymdd&theme=vision-glow&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=juampymdd&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" width="70%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=juampymdd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </div>
 
 ---
